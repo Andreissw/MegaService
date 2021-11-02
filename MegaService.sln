@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaService", "MegaService\MegaService.csproj", "{5BAE3235-93E2-4157-BD64-3E349C32367F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BAE3235-93E2-4157-BD64-3E349C32367F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BAE3235-93E2-4157-BD64-3E349C32367F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BAE3235-93E2-4157-BD64-3E349C32367F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BAE3235-93E2-4157-BD64-3E349C32367F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF4DB812-D980-4323-8F89-CBBED3752B98}
+	EndGlobalSection
+EndGlobal
